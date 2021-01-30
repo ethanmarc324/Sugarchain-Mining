@@ -1,0 +1,2 @@
+# Sugarchain-Mining
+Vps mining
